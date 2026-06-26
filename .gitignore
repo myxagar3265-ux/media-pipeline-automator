@@ -1,0 +1,13 @@
+# Sensitive YouTube API configuration and user credentials
+client_secrets.txt
+channels.txt
+
+# Compiled Java architecture and runtime artifacts
+*.class
+out/
+bin/
+.idea/
+*.iml
+.DS_Store
+*.log
+target/
